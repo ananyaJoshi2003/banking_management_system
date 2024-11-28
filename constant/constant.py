@@ -1,0 +1,3 @@
+SIGNUP = 1
+LOGIN = 2
+EXIT = 3
